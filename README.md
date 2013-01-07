@@ -6,15 +6,17 @@
 * The rest of the files are the same as the ones used in the tutorial.
 * tutorial number 17 is currently not linked correctly. 1-16 should all work
 
-How to compile these examples form command line on OSX (For the Noob):
-1) git clone this repository to your hardrive
-1) Download XCode and command line tools  (Xcode preferences/downloads/ command line tools download)
-2) Install homebrew:  http://mxcl.github.com/homebrew/
-3) In the Terminal run:  brew install pkgconfig
-4) then:  brew install glfw
-5) brew install glew
-6) cd tutorialWorkingDirectory and run:    make      
-7) ./nameOfNewlyCompiledProgram
+<b>How to compile these examples form command line on OSX (For the Noob):</b>
+<ol>
+	<li>1) git clone this repository to your hardrive</li>
+	<li>2) Download XCode and command line tools  (Xcode preferences/downloads/ command line tools download)</li>
+	<li>3) Install homebrew:  http://mxcl.github.com/homebrew/</li>
+	<li>4) In the Terminal run:  brew install pkgconfig</li>
+	<li>5) then:  brew install glfw</li>
+	<li>6) brew install glew</li>
+	<li>7) cd tutorialWorkingDirectory and run:    make    </li>  
+	<li>8) ./nameOfNewlyCompiledProgram</li>
+</ol>
 
 
 * Do whatever you want with these files, as noted at opengl-tutorials.org
