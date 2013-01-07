@@ -8,14 +8,14 @@
 
 <b>How to compile these examples form command line on OSX (For the Noob):</b>
 <ol>
-	<li>1) git clone this repository to your hardrive</li>
-	<li>2) Download XCode and command line tools  (Xcode preferences/downloads/ command line tools download)</li>
-	<li>3) Install homebrew:  http://mxcl.github.com/homebrew/</li>
-	<li>4) In the Terminal run:  brew install pkgconfig</li>
-	<li>5) then:  brew install glfw</li>
-	<li>6) brew install glew</li>
-	<li>7) cd tutorialWorkingDirectory and run:    make    </li>  
-	<li>8) ./nameOfNewlyCompiledProgram</li>
+	<li> git clone this repository to your hardrive</li>
+	<li> Download XCode and command line tools  (Xcode preferences/downloads/ command line tools download)</li>
+	<li> Install homebrew:  http://mxcl.github.com/homebrew/</li>
+	<li> In the Terminal run:  brew install pkgconfig</li>
+	<li>  brew install glfw</li>
+	<li> brew install glew</li>
+	<li> cd tutorialWorkingDirectory and run:    make    </li>  
+	<li> ./nameOfNewlyCompiledProgram</li>
 </ol>
 
 
