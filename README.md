@@ -6,7 +6,7 @@
 * The rest of the files are the same as the ones used in the tutorial.
 * tutorial number 17 is currently not linked correctly. 1-16 are working
 
-<b>How to compile these examples form command line on OSX (For the Noob):</b>
+<b>How to compile these examples form command line on OSX:</b>
 <ol>
 	<li> git clone this repository to your hardrive</li>
 	<li> Download XCode and command line tools  (Xcode preferences/downloads/ command line tools download)</li>
