@@ -21,6 +21,4 @@
 
 * Do whatever you want with these files, as noted at opengl-tutorials.org
 
-* Be sure to check out the kinect DJ-ing open source project <a href="https://github.com/3dj">3DJ</a>
-
 Questions: samruberti@gmail.com
