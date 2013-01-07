@@ -2,8 +2,6 @@
 
 <b>These example files are based on the example files v0009_21 found at <a href="http://www.opengl-tutorial.org">opengl-tutorials.org</a>.</b> 
 * I created custom makefiles for each tutorial so that xcode and CMake are not required
-* Altered the headings in the source code for these to compile with the makefiles. 
-* The rest of the files are the same as the ones used in the tutorial.
 * tutorial number 17 is currently not linked correctly. 1-16 are working
 
 <b>How to compile these examples form command line on OSX:</b>
